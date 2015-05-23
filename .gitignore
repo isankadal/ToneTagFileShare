@@ -12,6 +12,9 @@
 bin/
 gen/
 
+#library
+/*/libs/
+
 # Gradle files
 .gradle/
 build/
@@ -25,3 +28,7 @@ proguard/
 
 # Log Files
 *.log
+
+# Android Studio
+*.iml
+.idea
